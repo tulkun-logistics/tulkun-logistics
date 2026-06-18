@@ -12,11 +12,11 @@ Industrial Engineering student.
 
 ## Skills
 
-Excel
-Python
-Operations Research
-SQL (Learning)
-Power BI (Learning)
+- Excel
+- Python
+- Operations Research
+- SQL (Learning)
+- Power BI (Learning)
 
 ## Career Goal
 
