@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Son Tran
 
-<!--
-**tulkun-logistics/tulkun-logistics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering student.
 
-Here are some ideas to get you started:
+## Interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Supply Chain
+- Logistics
+- Operations Research
+- Data Analytics
+- Optimization
+
+## Skills
+
+- Excel
+- Python
+- SQL (Learning)
+- Power BI (Learning)
+
+## Career Goal
+
+To become a Supply Chain / Operations Analyst.
+
+## Projects
+
+Coming Soon...
